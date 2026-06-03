@@ -1,5 +1,9 @@
 # AP_TI1125070_Arfel-Ardiya-Pratama
 
+Nama : Arfel Ardiya Pratama
+NIM  : TI1125070
+Kleas: TI12D
+
 Di sini saya menyelesaikan studi kasus untuk membuat sebuah program kasir sederhana berbasis C++. Tugas utama dari program ini adalah mengelola transaksi penjualan, mulai dari memunculkan daftar produk yang dijual, mencatat apa saja yang dibeli oleh pelanggan, sampai otomatis menghitung total harga, pajak, dan potongan diskonnya. Di akhir sesi, program akan langsung mengeluarkan struk belanjaan lengkap dengan tanggal transaksinya. Selain itu, program ini juga sudah bisa melayani pembelian banyak barang sekaligus dalam satu kali jalan dan punya fitur untuk mengulang transaksi baru.
 
 𝗙𝗶𝘁𝘂𝗿 𝗨𝘁𝗮𝗺𝗮
